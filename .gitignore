@@ -1,0 +1,33 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# Configuration files
+.env
+
+# Log files
+*.log
+
+# Build and distribution files
+*.egg-info/
+dist/
+build/
+*.egg
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment management files
+Pipfile.lock
+poetry.lock
